@@ -1,5 +1,7 @@
 # vue3-games
 
+Node.js版本： v16.16.0
+
 This template should help get you started developing with Vue 3 in Vite.
 
 Demo [gh-pages](https://adatseng.github.io/vue3-games/#/)
